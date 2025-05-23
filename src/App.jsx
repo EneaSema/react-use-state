@@ -43,6 +43,22 @@ function App() {
                 nostrum dolore quas laboriosam. Accusantium.
               </p>
             </section>
+
+            {/*  fine section-content-button  */}
+
+            <section className="section-card">
+              <div className="card-title">
+                <h3 className="card-title">Title</h3>
+              </div>
+              <div className="card-body">
+                <p className="card-description">
+                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                  Reprehenderit, neque.
+                </p>
+              </div>
+            </section>
+
+            {/*  fine section-card */}
           </div>
         </section>
       </main>
